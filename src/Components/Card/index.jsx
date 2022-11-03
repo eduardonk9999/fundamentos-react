@@ -1,6 +1,6 @@
 import './style.css';
 
-export function Cart() {
+export function Card() {
   return(
     <div className="card">
       <strong>Eduardo Silva</strong>
