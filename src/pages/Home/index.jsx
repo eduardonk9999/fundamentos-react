@@ -8,9 +8,8 @@ export function Home() {
         <h1>Lista de Presença</h1>
         <input type="text" placeholder="Digite o nome..." />
         <button type="button">Adcionar</button>
-
-
-        <Card />
+        
+        <Card name="Eduardo Silva" time="10:55:25" />
       </div>
     </>
   )
